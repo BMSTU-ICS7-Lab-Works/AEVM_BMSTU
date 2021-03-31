@@ -1,0 +1,16 @@
+{
+  "name": "server_a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task7_1_A.js",
+  "scripts": {
+    "start": "node task7_1_A.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "server_c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task7_1_C.js",
+  "scripts": {
+    "start": "node task7_1_C.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

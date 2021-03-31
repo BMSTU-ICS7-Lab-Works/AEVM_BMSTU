@@ -1,0 +1,12 @@
+body {
+    padding: 30px;
+    background: rgba(79, 141, 171, 0.27);
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+
+.btn-class {
+    padding: 6px;
+    background: #9b5ede;
+    color: white;
+    display: inline-block;
+}

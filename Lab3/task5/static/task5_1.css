@@ -1,0 +1,19 @@
+body {
+    padding: 30px;
+    background: #808080;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    padding: 6px;
+    color: #ff0000;
+    cursor: pointer;
+    display: inline-block;
+}
+
+p {
+    padding: 6px;
+    color: #ffc0cb;
+    cursor: pointer;
+    display: inline-block;
+}
